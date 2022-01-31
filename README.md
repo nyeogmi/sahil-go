@@ -75,3 +75,7 @@ It might be good to:
 - provide more explicit support for fanning out to multiple consumers
 - provide more support for very long-lived Paginators -- this currently is best done with channels
 - write more unit tests
+
+## Licensing
+
+`sahil` is dual-licensed under the Apache-2.0 and MIT licenses. If you need something else, let me know and we can work something out.
